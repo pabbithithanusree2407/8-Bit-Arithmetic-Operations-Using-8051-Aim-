@@ -87,7 +87,6 @@ END
 4.	Store the quotient in memory location 40H.
 5.	Store the remainder in memory location 41H.
 
-
 ## Program:
 ~~~
 ORG 0000H
@@ -103,7 +102,5 @@ END
 <img width="1913" height="988" alt="Screenshot 2026-03-12 185653" src="https://github.com/user-attachments/assets/c0af61de-98ff-4ded-985a-e81a92f82ebf" />
 <img width="1918" height="990" alt="Screenshot 2026-03-12 185709" src="https://github.com/user-attachments/assets/b8788c83-5918-4396-820d-0c41424b9b63" />
 
-
 ## Result:
 The 8-bit arithmetic operations using the 8051 microcontroller have been successfully executed and verified using Keil software.
-
