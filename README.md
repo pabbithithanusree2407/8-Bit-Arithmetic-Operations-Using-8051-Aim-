@@ -32,7 +32,8 @@ END
 ## Output:
 <img width="1916" height="968" alt="Screenshot 2026-03-12 142809" src="https://github.com/user-attachments/assets/6af28191-4704-4a8d-b6f2-e3564c145492" />
 <img width="1910" height="960" alt="Screenshot 2026-03-12 143541" src="https://github.com/user-attachments/assets/776b0ea2-08b6-4875-8d53-17866453cf90" />
-  
+
+   
 ## For Subtraction:
 1.	Load the first number from memory location 30H into register A.
 2.	Load the second number from memory location 31H into register B.
@@ -52,6 +53,7 @@ NEXT:MOV 41H,#00H;
 END_PROGRAM:NOP;
 END
 ~~~
+
 
 ## Output:
 <img width="1916" height="967" alt="Screenshot 2026-03-12 142548" src="https://github.com/user-attachments/assets/21e90cef-43aa-4d97-b098-9c63dc9ceaf7" />
@@ -87,6 +89,7 @@ END
 4.	Store the quotient in memory location 40H.
 5.	Store the remainder in memory location 41H.
 
+
 ## Program:
 ~~~
 ORG 0000H
@@ -101,6 +104,7 @@ END
 ## Output:
 <img width="1913" height="988" alt="Screenshot 2026-03-12 185653" src="https://github.com/user-attachments/assets/c0af61de-98ff-4ded-985a-e81a92f82ebf" />
 <img width="1918" height="990" alt="Screenshot 2026-03-12 185709" src="https://github.com/user-attachments/assets/b8788c83-5918-4396-820d-0c41424b9b63" />
+
 
 ## Result:
 The 8-bit arithmetic operations using the 8051 microcontroller have been successfully executed and verified using Keil software.
